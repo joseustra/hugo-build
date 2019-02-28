@@ -1,5 +1,5 @@
 FROM alpine:3.8
-MAINTAINER tilldettmering@gmail.com
+MAINTAINER ustrajunior@gmail.com
 
 ENV HUGO_VERSION 0.54.0
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
